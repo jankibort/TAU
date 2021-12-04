@@ -76,5 +76,4 @@ public class Calculator {
 
         throw new WrongModeException("Wrong Mono Mode", new Throwable());
     }
-
 }
